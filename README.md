@@ -13,7 +13,7 @@
   <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
   
 
-## Programas que Usados para desenvolvimento dos meus projetos 🌐​
+## Programas Usados para desenvolvimento dos meus projetos 🌐​
 <div style="display: inline_block">
 <img align="center" alt="VsCode" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
