@@ -1,6 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Roger%20Varela&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Low-Code%20%26%20Especialista%20em%20TI&descAlignY=58&descSize=18" alt="banner" />
+<a href="https://rogervarela.site">
+  <img src="https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/62cea41b-a149-4e58-bd78-9fb90048279c/id-preview-d9522a87--0061c25c-78ae-496b-bc1c-aa69a2ae0ba9.lovable.app-1778179793045.png" alt="Roger Varela — Portfolio Preview" width="100%" />
+</a>
+
+<br/>
+
+# Roger Varela
+
+### Desenvolvedor Low-Code & Especialista em TI
 
 <a href="https://rogervarela.site">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=2E9EF7&center=true&vCenter=true&width=720&lines=Automa%C3%A7%C3%A3o+inteligente+%E2%80%A2+Micro-SaaS+%E2%80%A2+IA;Transformo+ideias+em+produtos+digitais;Dev+Low-Code+%E2%80%A2+No-Code+%E2%80%A2+Full-Stack" alt="Typing animation" />
@@ -214,6 +222,8 @@ Está contratando dev júnior, precisa de um Micro-SaaS, automação ou integra�
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer" />
+<br/>
+
+<sub>💡 <em>"Transformo desafios tecnológicos em soluções inovadoras, escaláveis e eficientes."</em></sub>
 
 </div>
