@@ -1,160 +1,219 @@
-<h1 align="center">Olá! Eu sou o Roger Varela 👋</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Desenvolvedor Júnior — Web / Full-Stack</strong><br/>
-  Caxias do Sul / RS · Buscando primeira vaga como Dev (remoto ou híbrido)
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Roger%20Varela&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Low-Code%20%26%20Especialista%20em%20TI&descAlignY=58&descSize=18" alt="banner" />
 
-<p align="center">
-  <a href="https://rogervarela.site">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-rogervarela.site-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/roger-varela">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/rogervarela99">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:roger1robson2@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wa.me/5554991710543">
-    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
+<a href="https://rogervarela.site">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=2E9EF7&center=true&vCenter=true&width=720&lines=Automa%C3%A7%C3%A3o+inteligente+%E2%80%A2+Micro-SaaS+%E2%80%A2+IA;Transformo+ideias+em+produtos+digitais;Dev+Low-Code+%E2%80%A2+No-Code+%E2%80%A2+Full-Stack" alt="Typing animation" />
+</a>
+
+<br/>
+
+<a href="https://rogervarela.site">
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-rogervarela.site-0F0F14?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/roger-varela-dev/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/ChokiTheProo">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://instagram.com/rogervarela99">
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:roger1robson2@gmail.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://wa.me/5554991710543">
+  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ChokiTheProo&label=Visitas%20no%20perfil&color=2E9EF7&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/ChokiTheProo?label=Followers&style=flat-square&color=2E9EF7" alt="Followers" />
+
+</div>
 
 ---
 
 ## Sobre mim
 
-Estudante de **Análise e Desenvolvimento de Sistemas** na Uninter, com base técnica concluída em **Informática para Internet** pela Qi Faculdade. Hoje atuo como **Suporte Técnico N1 na Windel Sistemas**, onde escrevo **scripts SQL** para corrigir inconsistências de dados, personalizar comportamentos de ERP e colaborar com o time de desenvolvimento.
+Sou **Desenvolvedor Low-Code** com base sólida em programação tradicional. Especialista em **automação inteligente**, criação de **Micro-SaaS** e soluções baseadas em **Inteligência Artificial**.
 
-Comecei como auxiliar de produção, passei pelo HelpDesk e venho subindo a escada da tecnologia. Meu próximo passo é a **primeira vaga como Desenvolvedor** — aplicando o que estudo todo dia em programação, IA e automação.
+Hoje atuo como Suporte Técnico N1 na **Windel Sistemas**, onde escrevo scripts SQL em ambiente ERP real e colaboro com o time de desenvolvimento. Estudo Análise e Desenvolvimento de Sistemas na **Uninter** e foco meu tempo livre em transformar ideias em produtos digitais.
 
-📍 Portfólio completo: **[rogervarela.site](https://rogervarela.site)**
+Procuro vagas como **Desenvolvedor Júnior (Web / Full-Stack / Low-Code)** em modelo remoto ou híbrido.
 
----
-
-## O que eu faço 🚀
-
-**Desenvolvimento Web & Full-Stack** — sites responsivos, telas com JavaScript, integração com APIs, banco de dados relacional e versionamento com Git.
-
-**Automação & SQL** — scripts SQL para ERP em ambiente real de produção, rotinas internas para corrigir e personalizar dados.
-
-**IA & Low-Code** — protótipos com APIs de IA generativa (OpenAI, Claude) e ferramentas low-code para automatizar tarefas repetitivas. Estudos práticos de **Micro-SaaS** (autenticação, banco e pagamentos).
+📍 Caxias do Sul · RS · Brasil  
+🌐 Portfólio completo em **[rogervarela.site](https://rogervarela.site)**
 
 ---
 
-## Tecnologias que eu estou aprendendo e desenvolvendo 💡
+## O que eu faço
 
-<div style="display: inline_block">
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-</div>
+<table>
+<tr>
+<td width="33%" valign="top">
 
-## Programas usados para desenvolvimento dos meus projetos 🌐
+### Low-Code & No-Code
+Construção de aplicações com **Lovable**, **Bubble**, **FlutterFlow** e **Webflow**. Da ideia ao deploy em dias, não meses.
 
-<div style="display: inline_block">
-  <img align="center" alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img align="center" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-</div>
+</td>
+<td width="33%" valign="top">
 
-## IA & Automação 🤖
+### Automação & IA
+Fluxos em **n8n**, **Make** e **Zapier** integrando APIs de **OpenAI** e **Claude**. Chatbots, geração de conteúdo e processos sem atrito.
 
-<div style="display: inline_block">
-  <img align="center" alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img align="center" alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
-  <img align="center" alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img align="center" alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img align="center" alt="Make" src="https://img.shields.io/badge/Make-6F2DBD?style=for-the-badge&logo=make&logoColor=white" />
-  <img align="center" alt="Zapier" src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" />
-</div>
+</td>
+<td width="33%" valign="top">
 
-## Marketing digital 📈
+### Web & Full-Stack
+**JavaScript**, **Java**, **HTML/CSS**, banco de dados relacional e **SQL** aplicado em ERP corporativo.
 
-<div style="display: inline_block">
-  <img align="center" alt="Meta Ads" src="https://img.shields.io/badge/Meta_Ads-1877F2?style=for-the-badge&logo=meta&logoColor=white" />
-  <img align="center" alt="Google Analytics" src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" />
-  <img align="center" alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-  <img align="center" alt="WhatsApp API" src="https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <img align="center" alt="Mailchimp" src="https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black" />
-</div>
-
-## Sistemas 🖥️
-
-<div style="display: inline_block">
-  <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0" />
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## Experiência profissional 💼
+## Stack
 
-**Suporte Técnico N1** — Windel Sistemas · `Mar/2025 — Atual`
-Atendimento a sistema ERP com foco em emissão fiscal (NF-e/NFC-e). Criação e manutenção de **scripts SQL** para personalizar comportamentos do sistema. Colaboração com o time de desenvolvimento reportando bugs com contexto técnico.
+**Linguagens**
 
-**Técnico em Informática — HelpDesk** — Cruzeiro Automação · `Out/2023 — Nov/2024`
-Instalação e configuração de ERPs e Frente de Caixa em clientes do varejo. Atuação como ponte entre cliente e desenvolvimento, traduzindo problemas em requisitos técnicos.
+<a href="#"><img src="https://skillicons.dev/icons?i=js,java,html,css,php,c,dart,kotlin,python" alt="languages" /></a>
 
-**Auxiliar de Produção** — Empresa Moon · `Jul/2021 — Mar/2023`
+**Banco de dados, ferramentas e versionamento**
+
+<a href="#"><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,vscode,figma,linux,windows" alt="tools" /></a>
+
+**Low-Code & No-Code**
+
+<p>
+  <img alt="Lovable" src="https://img.shields.io/badge/Lovable-FF4F8B?style=for-the-badge&logoColor=white" />
+  <img alt="Bubble" src="https://img.shields.io/badge/Bubble-0E1117?style=for-the-badge&logo=bubble&logoColor=00AAFF" />
+  <img alt="FlutterFlow" src="https://img.shields.io/badge/FlutterFlow-2C5FF7?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img alt="Webflow" src="https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white" />
+  <img alt="Glide" src="https://img.shields.io/badge/Glide-2D3142?style=for-the-badge&logoColor=white" />
+  <img alt="Airtable" src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white" />
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
+
+**Automação & IA**
+
+<p>
+  <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img alt="Make" src="https://img.shields.io/badge/Make-6F2DBD?style=for-the-badge&logo=make&logoColor=white" />
+  <img alt="Zapier" src="https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white" />
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img alt="Gemini" src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+</p>
+
+**Marketing & Analytics**
+
+<p>
+  <img alt="Meta Ads" src="https://img.shields.io/badge/Meta_Ads-1877F2?style=for-the-badge&logo=meta&logoColor=white" />
+  <img alt="Google Analytics" src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white" />
+  <img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  <img alt="WhatsApp API" src="https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img alt="Mailchimp" src="https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black" />
+</p>
+
+---
+
+## Experiência profissional
+
+**Suporte Técnico N1** · Windel Sistemas · `Mar/2025 — Atual`  
+Atendimento a sistema ERP com foco em emissão fiscal (NF-e / NFC-e). Criação e manutenção de **scripts SQL** para personalizar comportamentos do sistema e corrigir inconsistências de dados. Colaboração com o time de desenvolvimento reportando bugs com contexto técnico.
+
+**Técnico em Informática — HelpDesk** · Cruzeiro Automação · `Out/2023 — Nov/2024`  
+Instalação e configuração de ERPs e Frente de Caixa no varejo. Atuação como ponte entre cliente e desenvolvimento, traduzindo problemas em requisitos técnicos.
+
+**Auxiliar de Produção** · Empresa Moon · `Jul/2021 — Mar/2023`  
 Base de disciplina, trabalho em equipe e foco em qualidade.
 
 ---
 
-## Projetos em destaque 📂
+## Projetos em destaque
 
-- **[Portfólio Profissional — rogervarela.site](https://rogervarela.site)** — site pessoal responsivo com domínio próprio, foco em performance mobile, SEO e identidade visual.
-- **[Sistema Operacional de Redes](https://github.com/ChokiTheProo/SISTEMA-OPERACIONAL-DE-REDES)** — configuração e estudos de SO voltados a redes.
-- **[Internet das Coisas](https://github.com/ChokiTheProo/INTERNET-DAS-COISAS)** — projeto de IoT integrando sensores e dispositivos.
-- **[Análise e Qualidade de Software](https://github.com/ChokiTheProo/ANALISE-E-QUALIDADE-DE-SOFTWARE)** — testes e práticas de QA aplicadas a um projeto real.
-- **[Desenvolvimento de Aplicativos I](https://github.com/ChokiTheProo/DESENVOLVIMENTO-DE-APLICATIVOS-I-)** — primeiros apps mobile.
-- **[Desenvolvimento de Aplicativos II](https://github.com/ChokiTheProo/DESENVOLVIMENTO-DE-APLICATIVOS-II)** — continuação com Flutter e Kotlin.
-- **[Desenvolvimento de Sistemas Web III](https://github.com/ChokiTheProo/DESENVOLVIMENTO-DE-SISTEMAS-WEB-III)** — sistema web com back e front integrados.
+🌐 **[Portfólio rogervarela.site](https://rogervarela.site)** · site pessoal responsivo com domínio próprio, deploy em produção, foco em performance mobile, SEO e identidade visual moderna.
 
----
+🤖 **Scripts de Automação para ERP** · rotinas SQL e personalizações em ambiente corporativo real (Windel Sistemas).
 
-## Formação 🎓
+🧠 **Projetos com IA Generativa** · protótipos integrando APIs de OpenAI e Claude com ferramentas low-code para automação de tarefas repetitivas, com estudos de Micro-SaaS (autenticação, banco e pagamentos).
 
-- **Análise e Desenvolvimento de Sistemas** — Uninter · `Cursando, previsão 2027`
-- **Técnico em Informática para Internet** — Qi Faculdade e Escola Técnica · `1.000h · Concluído`
-- **Cursos:** Java Completo (40h), JavaScript (40h), Lógica de Programação (48h), Git e GitHub (20h)
+📦 **Repositórios acadêmicos:**
+- [Sistema Operacional de Redes](https://github.com/ChokiTheProo/SISTEMA-OPERACIONAL-DE-REDES)
+- [Internet das Coisas](https://github.com/ChokiTheProo/INTERNET-DAS-COISAS)
+- [Análise e Qualidade de Software](https://github.com/ChokiTheProo/ANALISE-E-QUALIDADE-DE-SOFTWARE)
+- [Desenvolvimento de Aplicativos I](https://github.com/ChokiTheProo/DESENVOLVIMENTO-DE-APLICATIVOS-I-) e [II](https://github.com/ChokiTheProo/DESENVOLVIMENTO-DE-APLICATIVOS-II)
+- [Desenvolvimento de Sistemas Web III](https://github.com/ChokiTheProo/DESENVOLVIMENTO-DE-SISTEMAS-WEB-III)
 
 ---
 
-## Minhas estatísticas no GitHub 📊
+## Formação e cursos
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ChokiTheProo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChokiTheProo&layout=compact&langs_count=8&theme=tokyonight" />
-</p>
+**Análise e Desenvolvimento de Sistemas** · Uninter · `Cursando — previsão 2027`  
+**Técnico em Informática para Internet** · Qi Faculdade e Escola Técnica · `1.000h · Concluído`
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChokiTheProo&theme=tokyonight" alt="GitHub Streak" />
+Cursos complementares: Java Completo (40h) · JavaScript (40h) · Lógica de Programação (48h) · Git e GitHub (20h) · Inglês para Iniciantes (60h)
+
+---
+
+## Idiomas
+
+<p>
+  <img alt="Português" src="https://img.shields.io/badge/Portugu%C3%AAs-Nativo-009C3B?style=for-the-badge" />
+  <img alt="Inglês" src="https://img.shields.io/badge/Ingl%C3%AAs-Intermedi%C3%A1rio%20%28leitura%20t%C3%A9cnica%29-012169?style=for-the-badge" />
 </p>
 
 ---
 
-## Contato 📬
+## Estatísticas do GitHub
 
-Está contratando dev júnior? Tem um projeto de site, automação ou integração com IA? Me chama:
+<div align="center">
 
-- 🌐 Portfólio: **[rogervarela.site](https://rogervarela.site)**
-- 💼 LinkedIn: [in/roger-varela](https://www.linkedin.com/in/roger-varela)
-- 📧 Email: [roger1robson2@gmail.com](mailto:roger1robson2@gmail.com)
-- 📱 WhatsApp: [+55 (54) 99171-0543](https://wa.me/5554991710543)
-- 📷 Instagram: [@rogervarela99](https://instagram.com/rogervarela99)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ChokiTheProo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0F0F14" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChokiTheProo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0F0F14" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChokiTheProo&label=Visitas&color=2E9EF7&style=flat" alt="Profile views" />
-</p>
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChokiTheProo&theme=tokyonight&hide_border=true&background=0F0F14" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ChokiTheProo&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="trophies" />
+
+</div>
+
+---
+
+## Contato
+
+Está contratando dev júnior, precisa de um Micro-SaaS, automação ou integração com IA? Me chama:
+
+<table>
+<tr>
+<td>🌐</td><td><strong>Portfólio</strong></td><td><a href="https://rogervarela.site">rogervarela.site</a></td>
+</tr>
+<tr>
+<td>💼</td><td><strong>LinkedIn</strong></td><td><a href="https://www.linkedin.com/in/roger-varela-dev/">linkedin.com/in/roger-varela-dev</a></td>
+</tr>
+<tr>
+<td>📧</td><td><strong>Email</strong></td><td><a href="mailto:roger1robson2@gmail.com">roger1robson2@gmail.com</a></td>
+</tr>
+<tr>
+<td>📱</td><td><strong>WhatsApp</strong></td><td><a href="https://wa.me/5554991710543">+55 (54) 99171-0543</a></td>
+</tr>
+<tr>
+<td>📷</td><td><strong>Instagram</strong></td><td><a href="https://instagram.com/rogervarela99">@rogervarela99</a></td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer" />
+
+</div>
